@@ -24,12 +24,12 @@ A console-based Java application for managing plane seat reservations. The syste
 
 ## Usage
 
-- Run the `W2053428_PlaneManagement` class.
+- Run the `PlaneManagement` class.
 - Use the console menu to interact with the system.
 
 ## Project Structure
 
-- `src/W2053428_PlaneManagement.java` - Main application logic and menu
+- `src/PlaneManagement.java` - Main application logic and menu
 - `src/Ticket.java` - Ticket details, price calculation, and file saving
 - `src/Person.java` - Person details for ticket holders
 
