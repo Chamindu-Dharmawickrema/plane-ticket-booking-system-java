@@ -33,6 +33,16 @@ A console-based Java application for managing plane seat reservations. The syste
 - `src/Ticket.java` - Ticket details, price calculation, and file saving
 - `src/Person.java` - Person details for ticket holders
 
+## 📱 Application Demo
+
+### Main Menu Interface
+![Main Menu](screenshots/main-menu.png)
+*Interactive console menu with booking options*
+
+### Seat Selection Process
+![Seat Selection](screenshots/seating-plan.png)
+*Real-time seat availability display*
+
 ## How It Works
 
 - Seats are managed in arrays for each row (A, B, C, D).
