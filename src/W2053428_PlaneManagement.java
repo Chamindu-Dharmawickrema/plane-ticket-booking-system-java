@@ -1,5 +1,5 @@
 import java.util.*;
-public class W2053428_PlaneManagement {
+public class PlaneManagement {
     //Define arrays for rows A, B, C and D
     static int[] RowA = new int[14];
     static int[] RowB = new int[12];
